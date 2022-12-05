@@ -1,2 +1,3 @@
 # space-flight
-space flight alzir
+
+- Nesse projeto foi usado postgres, typescript, prisma e docker
